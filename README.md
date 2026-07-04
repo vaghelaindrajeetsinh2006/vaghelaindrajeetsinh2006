@@ -26,3 +26,15 @@ A Passionate Frontend Development Learner from India 🇮🇳
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vaghela-indrajeetsinh/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+
+  <a href="https://github.com/vaghelaindrajeetsinh2006" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+</p>
