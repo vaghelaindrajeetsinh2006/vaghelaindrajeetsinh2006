@@ -18,7 +18,7 @@ A Passionate Frontend Development Learner from India 🇮🇳
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
 </p>
 
 ## 🌱 Currently Learning
