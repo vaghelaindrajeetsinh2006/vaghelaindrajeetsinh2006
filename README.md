@@ -42,5 +42,11 @@ A Passionate Frontend Development Learner from India 🇮🇳
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaghelaindrajeetsinh2006&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaghelaindrajeetsinh2006 & show_icons=true & theme=tokyonight" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghelaindrajeetsinh2006&layout=compact&theme=tokyonight" />
 </p>
