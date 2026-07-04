@@ -14,3 +14,15 @@ A Passionate Frontend Development Learner from India 🇮🇳
 - 🚀 Building real-world frontend projects
 - 🎯 Goal: Become a Full Stack Developer and build impactful web applications
 - 📍 Surat, Gujarat, India
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+## 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
