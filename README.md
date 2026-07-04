@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Indrajeetsinh Vaghela</h1>
 
-<!--
-**vaghelaindrajeetsinh2006/vaghelaindrajeetsinh2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+A Passionate Frontend Development Learner from India 🇮🇳
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Student (3rd Year)
+- 💻 Skilled in **HTML, CSS & JavaScript**
+- 🌱 Currently Learning **React.js**
+- 🚀 Building real-world frontend projects
+- 🎯 Goal: Become a Full Stack Developer and build impactful web applications
+- 📍 Surat, Gujarat, India
