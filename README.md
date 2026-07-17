@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaghela Indrajeetsinh</h1>
 
 <h3 align="center">
-Frontend Web Developer | B.Tech Computer & Communication Engineering Student
+Frontend Web Developer | B.Tech Computer Engineering Student
 </h3>
 
 ---
