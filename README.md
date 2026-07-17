@@ -1,52 +1,76 @@
-<h1 align="center">Hi 👋, I'm Indrajeetsinh Vaghela</h1>
+<h1 align="center">Hi 👋, I'm Vaghela Indrajeetsinh</h1>
 
 <h3 align="center">
-A Passionate Frontend Development Learner from India 🇮🇳
+Frontend Web Developer | B.Tech Computer & Communication Engineering Student
 </h3>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech Student (3rd Year)
-- 💻 Skilled in **HTML, CSS & JavaScript**
-- 🌱 Currently Learning **React.js**
-- 🚀 Building real-world frontend projects
-- 🎯 Goal: Become a Full Stack Developer and build impactful web applications
-- 📍 Surat, Gujarat, India
+- 🌱 Currently learning **React.js & Full Stack Development**
+- 💻 Passionate about Frontend Development
+- 🚀 Building Modern Responsive Websites
+- 🎯 Goal: Become a Full Stack Developer
 
-## 🛠️ Tech Stack
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
-</p>
+## 🌐 Portfolio
 
-## 🌱 Currently Learning
+🔗 Live Website
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+https://vaghelaindrajeetsinh2006.github.io/personal-portfolio/
 
-## 🌐 Connect with Me
+---
+
+## 💻 Tech Stack
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaghela-indrajeetsinh/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
 
-  <a href="https://github.com/vaghelaindrajeetsinh2006" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
 </p>
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaghelaindrajeetsinh2006&show_icons=true&theme=github_dark&cache_seconds=1800"/>
-</p>
+## 📂 Featured Project
 
-## 💻 Most Used Languages
+### 🌐 Personal Portfolio Website
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghelaindrajeetsinh2006&layout=compact&theme=github_dark&cache_seconds=1800"/>
-</p>
+✔ Responsive Design
+
+✔ Smooth Animations
+
+✔ Interactive UI
+
+✔ Modern Layout
+
+✔ HTML CSS JavaScript
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vaghelaindrajeetsinh2006&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaghelaindrajeetsinh2006&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+GitHub
+
+https://github.com/vaghelaindrajeetsinh2006
+
+LinkedIn
+
+https://www.linkedin.com/in/vaghela-indrajeetsinh
+
+Portfolio
+
+https://vaghelaindrajeetsinh2006.github.io/personal-portfolio/
+
+---
+
+⭐ Thank you for visiting my profile!
