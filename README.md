@@ -83,18 +83,6 @@ A simple expense management application for tracking income and expenses with fi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=vaghelaindrajeetsinh2006&show_icons=true" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghelaindrajeetsinh2006&layout=compact" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
