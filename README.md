@@ -106,7 +106,7 @@ A simple expense management application for tracking income and expenses with fi
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://vaghelaindrajeetsinh2006.github.io/personal-portfolio/" target="_blank">
+<a href="https://vaghelaindrajeetsinh2006.github.io/-portfolio-/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
