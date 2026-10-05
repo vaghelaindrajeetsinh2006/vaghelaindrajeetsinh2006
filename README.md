@@ -1,76 +1,117 @@
 <h1 align="center">Hi 👋, I'm Vaghela Indrajeetsinh</h1>
 
 <h3 align="center">
-Frontend Web Developer | B.Tech Computer Engineering Student
+B.Tech Computer Engineering Student | Python Backend Developer
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **React.js & Full Stack Development**
-- 💻 Passionate about Frontend Development
-- 🚀 Building Modern Responsive Websites
-- 🎯 Goal: Become a Full Stack Developer
+- 🎓 B.Tech Computer Engineering student at **MBIT, CVM University**
+- 💻 Building projects with **Python, Django, REST APIs, and FastAPI**
+- 🗄️ Working with **SQLite, MongoDB, and PostgreSQL**
+- 🤖 Completed **Prompt Engineering**
+- 🌱 Currently strengthening my **Backend Development** skills
+- 🚀 Exploring **Generative AI, AI Automation, and AI Agents**
 
 ---
 
-## 🌐 Portfolio
+## 🛠️ Tech Stack
 
-🔗 Live Website
-
-https://vaghelaindrajeetsinh2006.github.io/personal-portfolio/
-
----
-
-## 💻 Tech Stack
+### 💻 Languages & Frontend
 
 <p align="left">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+### ⚙️ Backend & APIs
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite" />
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📂 Featured Project
+## 📚 Currently Learning
 
-### 🌐 Personal Portfolio Website
-
-✔ Responsive Design
-
-✔ Smooth Animations
-
-✔ Interactive UI
-
-✔ Modern Layout
-
-✔ HTML CSS JavaScript
+- PostgreSQL
+- Backend Development
+- REST API Development
+- Authentication & Permissions
+- Generative AI
+- AI Automation
+- AI Agents
 
 ---
 
-## 📈 GitHub Stats
+## 📂 Featured Projects
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vaghelaindrajeetsinh2006&show_icons=true)
+### 📚 StudyFlow — Student Assignment Management System
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaghelaindrajeetsinh2006&layout=compact)
+A Django-based student assignment management system with CRUD operations, search functionality, and overdue assignment tracking.
 
----
-
-## 🤝 Connect With Me
-
-GitHub
-
-https://github.com/vaghelaindrajeetsinh2006
-
-LinkedIn
-
-https://www.linkedin.com/in/vaghela-indrajeetsinh
-
-Portfolio
-
-https://vaghelaindrajeetsinh2006.github.io/personal-portfolio/
+**Tech:** Python, Django, SQLite, HTML, CSS, JavaScript
 
 ---
 
-⭐ Thank you for visiting my profile!
+### 🤖 AI Learning Platform
+
+An AI-focused learning platform built during my web development internship.
+
+**Tech:** React.js, Vite, Tailwind CSS
+
+🔗 [Live Project](https://vaghelaindrajeetsinh2006.github.io/AI-Learning-Platform/)
+
+---
+
+### 🎮 JavaScript GameHub
+
+A collection of interactive mini games with images, sounds, and responsive design.
+
+**Tech:** HTML, CSS, JavaScript
+
+🔗 [Live Project](https://vaghelaindrajeetsinh2006.github.io/js-gamehub/)
+
+---
+
+### 💰 Expense Tracker
+
+A simple expense tracking application with income and expense management, filtering, editing, deleting, and monthly statistics.
+
+**Tech:** HTML, CSS, JavaScript, Local Storage
+
+---
+
+## 🧠 Backend & API Learning
+
+```text
+Python
+   ↓
+Django
+   ↓
+Django REST Framework
+   ↓
+REST APIs
+   ↓
+FastAPI
+   ↓
+PostgreSQL
+   ↓
+Generative AI
+   ↓
+AI Automation
+   ↓
+AI Agents
