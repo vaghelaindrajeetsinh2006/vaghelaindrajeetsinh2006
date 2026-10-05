@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaghela Indrajeetsinh</h1>
 
 <h3 align="center">
-B.Tech Computer Engineering Student | Python Backend Developer
+Backend Developer | B.Tech Computer Engineering Student
 </h3>
 
 ---
@@ -9,11 +9,11 @@ B.Tech Computer Engineering Student | Python Backend Developer
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Engineering student at **MBIT, CVM University**
-- 💻 Building projects with **Python, Django, REST APIs, and FastAPI**
-- 🗄️ Working with **SQLite, MongoDB, and PostgreSQL**
+- 💻 Interested in **Backend Development and Web Technologies**
+- 🐍 Working with **Python, Django, Django REST Framework, and FastAPI**
+- 🗄️ Familiar with **SQLite and MongoDB**
 - 🤖 Completed **Prompt Engineering**
-- 🌱 Currently strengthening my **Backend Development** skills
-- 🚀 Exploring **Generative AI, AI Automation, and AI Agents**
+- 🚀 Passionate about building practical and user-focused applications
 
 ---
 
@@ -34,7 +34,7 @@ B.Tech Computer Engineering Student | Python Backend Developer
 ### 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
 </p>
 
 ### 🔧 Tools
@@ -45,23 +45,11 @@ B.Tech Computer Engineering Student | Python Backend Developer
 
 ---
 
-## 📚 Currently Learning
-
-- PostgreSQL
-- Backend Development
-- REST API Development
-- Authentication & Permissions
-- Generative AI
-- AI Automation
-- AI Agents
-
----
-
 ## 📂 Featured Projects
 
 ### 📚 StudyFlow — Student Assignment Management System
 
-A Django-based student assignment management system with CRUD operations, search functionality, and overdue assignment tracking.
+A Django-based student assignment management system designed to manage assignments efficiently with CRUD operations, search functionality, and overdue assignment tracking.
 
 **Tech:** Python, Django, SQLite, HTML, CSS, JavaScript
 
@@ -69,7 +57,7 @@ A Django-based student assignment management system with CRUD operations, search
 
 ### 🤖 AI Learning Platform
 
-An AI-focused learning platform built during my web development internship.
+An interactive learning platform developed during my web development internship, focused on providing a modern and user-friendly learning experience.
 
 **Tech:** React.js, Vite, Tailwind CSS
 
@@ -79,7 +67,7 @@ An AI-focused learning platform built during my web development internship.
 
 ### 🎮 JavaScript GameHub
 
-A collection of interactive mini games with images, sounds, and responsive design.
+A collection of interactive mini games featuring responsive design, images, sounds, and engaging gameplay.
 
 **Tech:** HTML, CSS, JavaScript
 
@@ -89,29 +77,40 @@ A collection of interactive mini games with images, sounds, and responsive desig
 
 ### 💰 Expense Tracker
 
-A simple expense tracking application with income and expense management, filtering, editing, deleting, and monthly statistics.
+A simple expense management application for tracking income and expenses with filtering, editing, deleting, and monthly statistics.
 
 **Tech:** HTML, CSS, JavaScript, Local Storage
 
 ---
 
-## 🧠 Backend & API Learning
+## 📊 GitHub Stats
 
-```text
-Python
-   ↓
-Django
-   ↓
-Django REST Framework
-   ↓
-REST APIs
-   ↓
-FastAPI
-   ↓
-PostgreSQL
-   ↓
-Generative AI
-   ↓
-AI Automation
-   ↓
-AI Agents
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=vaghelaindrajeetsinh2006&show_icons=true" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaghelaindrajeetsinh2006&layout=compact" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://github.com/vaghelaindrajeetsinh2006" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vaghela-indrajeetsinh" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://vaghelaindrajeetsinh2006.github.io/personal-portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
